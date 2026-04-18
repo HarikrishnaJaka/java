@@ -16,6 +16,7 @@ public class Hari
 	{
       System.out.println(greet());
       System.out.println(hello());
+      System.out.println(hari());
 	}
 
 }
