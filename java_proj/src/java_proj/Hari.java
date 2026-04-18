@@ -7,7 +7,7 @@ public class Hari
 		return "hello boss good morning......!";
 	}
 	public static String hello() {
-		return "hello boss how are you.....!";
+		return "hello how are you.....!";
 	}
 	public static void main(String[] args) 
 	{
